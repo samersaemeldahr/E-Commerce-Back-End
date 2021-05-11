@@ -26,7 +26,7 @@
   1. Update the [.env](./.env) file with your username and password
   1. Write `npm run start` or `npm start` in console to start the application
 
-Please refer to this [video](https://drive.google.com/file/d/1yzZYi3MhFadtePS1rG-ziKkkGz0eV0VF/view) for an in-depth functionality of the application
+Please refer to this [video](https://drive.google.com/file/d/1vQepQfp98EfERmjSMNndytFVxuBSHrEY/view) for an in-depth functionality of the application
   
   
 ## License
